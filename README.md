@@ -232,9 +232,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Related Resources
 
-- [Text-to-Video Prompt Engineering Guide](link-to-guide)
-- [Video Generation Best Practices](link-to-best-practices)
-- [AI Video Creation Community](link-to-community)
+- Coming soon
 
 ---
 
