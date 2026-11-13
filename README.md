@@ -199,6 +199,126 @@ Giant colorful flowers looming overhead
 15 seconds
 ```
 
+### Sci-Fi Scene
+
+```
+Lone astronaut walking across a red desert on Mars as two moons rise over distant dunes
+Slow dolly-out from a close-up of the helmet visor to a wide establishing shot
+Cinematic sci-fi, desaturated teal and orange palette, anamorphic lens flares
+Drifting dust, faint reflections of the moons on the visor
+14 seconds
+```
+
+### Underwater World
+
+```
+Sea turtle gliding through a vibrant coral reef with schools of tropical fish
+Smooth underwater tracking shot slightly behind and above the turtle
+Crystal-clear natural light, saturated blues and greens, documentary realism
+Sunbeams rippling through the surface, rising air bubbles
+12 seconds
+```
+
+### Food & Beverage
+
+```
+Hot espresso pouring into a ceramic cup, crema swirling on the surface
+Extreme macro shot, slow motion, gentle push-in
+Warm moody lighting, shallow depth of field, rich brown and amber tones
+Rising steam and tiny splashes catching the light
+8 seconds
+```
+
+### Travel & Landscape
+
+```
+Aerial view of terraced rice fields in Bali at sunrise, mist rolling between the hills
+Drone shot rising slowly and tilting up to reveal the horizon
+Golden hour lighting, lush greens, travel-documentary look
+Mist drifting, birds flying across the frame
+15 seconds
+```
+
+### Time-Lapse
+
+```
+Busy city intersection transitioning from sunrise to night, with car headlights forming glowing streaks
+Static wide shot from a rooftop, fixed tripod
+Hyper-lapse style, crisp detail, dramatic sky gradient from orange to deep indigo
+Fast-moving clouds and glowing windows turning on across buildings
+10 seconds
+```
+
+### Horror / Suspense
+
+```
+Dimly lit hallway in an abandoned house, a door at the far end slowly creaking open
+Slow, creeping dolly-in down the hallway
+Desaturated cold tones, heavy shadows, subtle film grain
+Flickering light bulb and floating dust particles
+16 seconds
+```
+
+### Anime Style
+
+```
+Teenage swordswoman standing on a rooftop at dusk as cherry blossom petals swirl around her
+Dramatic low-angle shot, then quick push-in to her determined eyes
+Hand-drawn anime style, vivid sky gradient, bold outlines, soft cel shading
+Wind-blown hair and cloak, glowing petals
+8 seconds
+```
+
+### Sports & Action
+
+```
+Skateboarder launching off a concrete ramp in an urban skatepark, mid-air kickflip
+Low-angle slow-motion shot with a quick whip-pan following the board
+High-contrast sunset lighting, gritty texture, sports-commercial style
+Dust kicking up on landing and motion blur on the wheels
+6 seconds
+```
+
+### Fashion Editorial
+
+```
+Model in a structured emerald-green coat walking down an empty marble corridor
+Steady front-facing tracking shot retreating at walking pace
+High-fashion editorial look, clean symmetrical framing, soft diffused lighting
+Coat fabric flowing with each step, subtle wind effect
+10 seconds
+```
+
+### Motion Graphics / Data Visualization
+
+```
+Colorful bar chart animating upward as data points appear, followed by a glowing line graph overlay
+Static front-on camera with smooth zoom into key data points
+Clean flat design, dark navy background, vibrant gradient accents
+Subtle grid lines pulsing and numbers counting up
+12 seconds
+```
+
+### Cozy Lifestyle
+
+```
+Rainy afternoon in a small apartment, a cat curled up on a windowsill beside a steaming mug and open book
+Slow, gentle push-in toward the window
+Warm indoor lighting contrasted with cool blue rain outside, lo-fi aesthetic
+Raindrops trickling down the glass and soft candle flicker
+10 seconds
+```
+
+### Steampunk Fantasy
+
+```
+Brass airship docking at a floating sky-harbor city with turning gears and steam vents
+Sweeping crane shot circling the airship as it settles into the dock
+Rich sepia and copper tones, intricate mechanical detail, painterly cinematic style
+Billowing steam, spinning cogs, and drifting clouds
+18 seconds
+```
+
 ## Contributing
 
 We welcome contributions! Please follow these steps:
